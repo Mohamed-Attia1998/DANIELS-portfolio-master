@@ -1,0 +1,212 @@
+@font-face {
+  font-family: fontbold;
+  src: url(../Poppins-Light.ttf);
+}
+@font-face {
+  font-family: fontblack;
+  src: url(../Poppins-Black.ttf);
+}
+
+@keyframes define {
+  0% {
+    content: " ";
+  }
+  1% {
+    content: " L |";
+  }
+  2% {
+    content: " La |";
+  }
+  3% {
+    content: " Lar |";
+  }
+  4% {
+    content: " Larr |";
+  }
+  5% {
+    content: " Larry |";
+  }
+  6% {
+    content: " Larry |";
+  }
+  7% {
+    content: " Larry D |";
+  }
+  8% {
+    content: " Larry Da |";
+  }
+  9% {
+    content: " Larry Dan |";
+  }
+  10% {
+    content: " Larry Dani |";
+  }
+  11% {
+    content: " Larry Danie |";
+  }
+  12% {
+    content: " Larry Daninel |";
+  }
+
+  13% {
+    content: " Larry Danile |";
+  }
+  14% {
+    content: " Larry Daniles |";
+  }
+  26% {
+    content: " Larry Daniles |";
+  }
+
+  29% {
+    content: " Larry Danile|";
+  }
+
+  30% {
+    content: " Larry Danil |";
+  }
+  31% {
+    content: " Larry Dani |";
+  }
+  32% {
+    content: " Larry Dan | ";
+  }
+  33% {
+    content: " Larry Da | ";
+  }
+  34% {
+    content: " Larry |";
+  }
+  35% {
+    content: " Larr |";
+  }
+  36% {
+    content: " La |";
+  }
+  37% {
+    content: " L |";
+  }
+  38% {
+    content: " |";
+  }
+
+  39% {
+    content: " D |";
+  }
+  40% {
+    content: " De |";
+  }
+  41% {
+    content: " Dev |";
+  }
+  42% {
+    content: " Deve |";
+  }
+  43% {
+    content: " Devel |";
+  }
+  44% {
+    content: " Develo |";
+  }
+  45% {
+    content: " Develop |";
+  }
+  46% {
+    content: " Develop |";
+  }
+  47% {
+    content: " Develope |";
+  }
+  48% {
+    content: " Developer |";
+  }
+  58% {
+    content: " Developer |";
+  }
+  59% {
+    content: " Develop |";
+  }
+  60% {
+    content: " Develo |";
+  }
+  61% {
+    content: " Devel |";
+  }
+  62% {
+    content: " Dev |";
+  }
+  63% {
+    content: " De |";
+  }
+  64% {
+    content: " D |";
+  }
+  65% {
+    content: " |";
+  }
+  66% {
+    content: " D |";
+  }
+  67% {
+    content: " De |";
+  }
+  68% {
+    content: " Des |";
+  }
+  69% {
+    content: " Desi |";
+  }
+  70% {
+    content: " Desin |";
+  }
+  71% {
+    content: " Desin |";
+  }
+  72% {
+    content: " Desine |";
+  }
+  73% {
+    content: " Desiner |";
+  }
+  88% {
+    content: " Desiner |";
+  }
+  89% {
+    content: " Desiner |";
+  }
+  89% {
+    content: " Desin |";
+  }
+  90% {
+    content: " Des |";
+  }
+  93% {
+    content: " D |";
+  }
+  94% {
+    content: " |";
+  }
+  100% {
+    content: " |";
+  }
+}
+
+@media (min-width: 576px) {
+  .layer h1 {
+    font-size: 2rem;
+  }
+  .ani {
+    font-size: 2rem;
+  }
+  .buttons {
+    font-size: small;
+  }
+}
+@media (min-width: 768px) {
+  .layer h1 {
+    font-size: 3rem;
+  }
+  .ani {
+    font-size: 3.5rem;
+  }
+}
